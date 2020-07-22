@@ -2,4 +2,8 @@ msf1
 
 修改msf22
 
-BBBBBBBBB
+BBAAAAABBBB
+
+AAAABBBBAAAAAA
+
+A和B都修改了

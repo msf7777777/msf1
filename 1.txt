@@ -9,3 +9,7 @@ BBAAAAABBBB
 AAAABBBBAAAAAA
 
 A和B都修改了
+
+zjm1
+
+解决冲突完成
